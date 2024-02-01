@@ -2,7 +2,7 @@
 
 Submitted by: **Annia Matthews**
 
-**Name of your app** is an app that introduces Retsuko
+RetsukoTrivia is an app that introduces Retsuko
 
 Time spent: ~4 hours spent in total
 
